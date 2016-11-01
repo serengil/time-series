@@ -31,6 +31,8 @@ public class TripleExponentialSmoothing {
 		System.out.println("mae/mean: "+applyTripleExponentialSmoothing(source, blockSize, ls, ts, ss));
 		
 		/*
+		//this block finds the best block size, ls, ts and ss variables.
+		
 		//optimizer
 		double minScore = 100;
 		double minLS = 0, minTS = 0, minSS = 0, minBlock = 0;

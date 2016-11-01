@@ -1,5 +1,12 @@
 package com.forecast.activity;
 
+/*
+		*
+		* @author Sefik Ilkin Serengil
+		* initialization: 2016-11-01
+		*
+*/
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;

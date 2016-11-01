@@ -1,5 +1,12 @@
 package com.forecast.metric;
 
+/*
+		*
+		* @author Sefik Ilkin Serengil
+		* initialization: 2016-11-01
+		*
+*/
+
 import java.util.List;
 import com.forecast.entity.ForecastEntity;
 import com.forecast.entity.HistoricalDataEntity;

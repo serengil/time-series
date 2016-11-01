@@ -1,5 +1,12 @@
 package com.forecast.activity;
 
+/*
+		*
+		* @author Sefik Ilkin Serengil
+		* initialization: 2016-11-01
+		*
+*/
+
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
